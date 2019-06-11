@@ -33,6 +33,10 @@ ul{
 	left: 0px;
 	background: #222D32;
 	z-index: 9;
+	transition: all 1s;
+}
+.lt_aside.xsyc{
+	left: -180px;
 }
 
 .brand{
@@ -99,7 +103,12 @@ ul{
 	top: 0px;
 	left: 0px;
 	padding-left: 180px;
+	transition: all 1s;
 }
+.upside.ss{
+	padding-left:0px;
+}
+
 
 .upside .a,.b{
 	width: 50px;
@@ -114,10 +123,12 @@ ul{
 /*主体部分*/
 .mainbody{
 	width: 100%;
-	height: 1000px;
-	background: pink;
 	padding-left: 180px;
 	padding-top: 50px;
+	transition: all 1s;
+}
+.mainbody.ztzt{
+	padding-left:0px;
 }
 
 
