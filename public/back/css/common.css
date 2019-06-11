@@ -1,0 +1,14 @@
+body{
+	background: pink;
+}
+
+.panel-title{
+	line-height: 40px;
+	font-size: 20px;
+	font-weight: 700;
+    text-align: center;
+}
+
+.m_top{
+	padding-top: 150px;
+}
